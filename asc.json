@@ -789,7 +789,7 @@
             {
                 "abilityIcon": 4622451,
                 "creatureDisplayID": 0,
-                "description": "Rionthus tears into players with blasts of blue magic, inflicting 32,715 Spellfrost damage every 1 sec over 3 sec.\\n\\nThe magic lingers, slowing affected players by 30% and causing them to inflict 20,451 Spellfrost damage every 1 sec to players within 5 yards for 16 sec.\\n",
+                "description": "Rionthus tears into players with blasts of blue magic, inflicting 53,162 Spellfrost damage every 1 sec over 3 sec.\\n\\nThe magic lingers, slowing affected players by 30% and causing them to inflict 20,451 Spellfrost damage every 1 sec to players within 5 yards for 16 sec.\\n",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26334:15|h[Disintegrate]|h|r",
@@ -815,7 +815,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 20,447 Arcane damage to all players and an additional 16,358 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 20,447 Arcane damage to all players and an additional 24,536 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26496:15|h[Infused Explosion]|h|r",
@@ -827,7 +827,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 20,447 Arcane damage to all players and an additional 16,358 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 20,447 Arcane damage to all players and an additional 24,536 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26497:15|h[Infused Explosion]|h|r",
@@ -839,7 +839,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 20,447 Arcane damage to all players and an additional 16,358 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 20,447 Arcane damage to all players and an additional 24,536 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26498:15|h[Infused Explosion]|h|r",
@@ -864,7 +864,7 @@
             {
                 "abilityIcon": 4630480,
                 "creatureDisplayID": 0,
-                "description": "Rionthus creates a vortex of temporal energy that begins to drift toward him. If the anomaly collides with Rionthus, he gains a shield that absorbs damage equal to 10% of his maximum health.\\n\\nIf a player collides with the anomaly, it inflicts 61,340 Arcane damage and is knocked away.",
+                "description": "Rionthus creates a vortex of temporal energy that begins to drift toward him. If the anomaly collides with Rionthus, he gains a shield that absorbs damage equal to 15% of his maximum health.\\n\\nIf a player collides with the anomaly, it inflicts 102,234 Arcane damage and is knocked away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26717:15|h[Temporal Anomaly]|h|r",
@@ -877,7 +877,7 @@
             {
                 "abilityIcon": 1041232,
                 "creatureDisplayID": 0,
-                "description": "Thadrion infuses players with unstable energy, inflicting 12,268 Arcane damage every 2 sec and growing in intensity over time.\\n\\nUpon removal, the energy briefly coalesces and then explodes, inflicting 286,257 Arcane damage to players within 12 yards and leaving behind an |cffffffffErratic Remnant|r.\\n\\nA lingering trace of energy then jumps to a nearby player and applies Unstable Essence. \\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Heroic difficulty, an Erratic Remnant is formed when Unstable Essence is removed and Unstable Essence persists after Thadrion's demise.|r",
+                "description": "Thadrion infuses players with unstable energy, inflicting 8,179 Arcane damage every 2 sec and growing in intensity over time.\\n\\nUpon removal, the energy briefly coalesces and then explodes, inflicting 286,257 Arcane damage to players within 12 yards and leaving behind an |cffffffffErratic Remnant|r.\\n\\nA lingering trace of energy then jumps to a nearby player and applies Unstable Essence. \\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Heroic difficulty, an Erratic Remnant is formed when Unstable Essence is removed and Unstable Essence persists after Thadrion's demise.|r",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26735,
                 "headerType": 2,
@@ -978,7 +978,7 @@
             {
                 "abilityIcon": 236289,
                 "creatureDisplayID": 0,
-                "description": "Rashok leaps toward a target player and slams the ground, creating a |cffffffffLava Vortex|r at that location and inflicting 204,469 Fire damage to all players. This damage is increased by 20% for each |cffffffffLava Vortex|r in the chamber.\\n\\nThe slam's impact causes each |cffffffffLava Vortex|r to pour forth |cffffffffLava Wave|r.\\n\\nA |cffffffffLava Explosion|r erupts if |cffffffffSearing Slam|r hits a |cffffffffLava Vortex|r.\\n",
+                "description": "Rashok leaps toward a target player and slams the ground, creating a |cffffffffLava Vortex|r at that location and inflicting 163,575 Fire damage to all players. This damage is increased by 20% for each |cffffffffLava Vortex|r in the chamber.\\n\\nThe slam's impact causes each |cffffffffLava Vortex|r to pour forth |cffffffffLava Wave|r.\\n\\nA |cffffffffLava Explosion|r erupts if |cffffffffSearing Slam|r hits a |cffffffffLava Vortex|r.\\n",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26941,
                 "headerType": 2,
@@ -1031,7 +1031,7 @@
             {
                 "abilityIcon": 1320372,
                 "creatureDisplayID": 0,
-                "description": "Rashok roars in pain, inflicting 61,341 Shadowflame damage to all players as he breaks free from the |cffffffffElder's Conduit|r.\\n\\nRashok's inner flame smolders as he breaks free from his prison, increasing the damage of |cffffffffScorching Heatwave|r by 500%.",
+                "description": "Rashok roars in pain, inflicting 20,447 Shadowflame damage to all players as he breaks free from the |cffffffffElder's Conduit|r.\\n\\nRashok's inner flame smolders as he breaks free from his prison, increasing the damage of |cffffffffScorching Heatwave|r by 500%.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26368:15|h[Smoldering Rage]|h|r",
@@ -1043,7 +1043,7 @@
             {
                 "abilityIcon": 524795,
                 "creatureDisplayID": 0,
-                "description": "Rashok slashes at his current target, inflicting 817,877 Fire damage and increasing damage taken by |cffffffffFlaming Slash|r by 500% for 6 sec.\\n",
+                "description": "Rashok slashes at his current target, inflicting 817,877 Fire damage and increasing damage taken by |cffffffffFlaming Slash|r by 3,000% for 6 sec.\\n",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26501:15|h[Flaming Slash]|h|r",
@@ -1056,7 +1056,7 @@
             {
                 "abilityIcon": 1016245,
                 "creatureDisplayID": 0,
-                "description": "Rashok crushes his current target, inflicting 1.4 million Physical damage and increasing damage taken by  |cffffffffEarthen Crush|r by 500% for 6 sec.",
+                "description": "Rashok crushes his current target, inflicting 2 million Physical damage and increasing damage taken by  |cffffffffEarthen Crush|r by 3,000% for 6 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26502:15|h[Earthen Crush]|h|r",
@@ -1183,7 +1183,7 @@
             {
                 "abilityIcon": 451169,
                 "creatureDisplayID": 0,
-                "description": "A roiling wave of lava that inflicts 307,404 Fire damage every 1 sec to players within the area.",
+                "description": "A roiling wave of lava that inflicts 204,469 Fire damage every 1 sec to players within the area.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26961:15|h[Lava Wave]|h|r",
@@ -1195,7 +1195,7 @@
             {
                 "abilityIcon": 4914674,
                 "creatureDisplayID": 0,
-                "description": "Rashok periodically emits scorching heat as his energy is drained by the |cffffffffElder's Conduit|r, inflicting 122,614 Shadowflame damage to all players and applying |cffffffffScorched Flesh|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Heroic difficulty and above, also afflicts all players with Scorched Flesh.",
+                "description": "Rashok periodically emits scorching heat as his energy is drained by the |cffffffffElder's Conduit|r, inflicting 110,413 Shadowflame damage to all players and applying |cffffffffScorched Flesh|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Heroic difficulty and above, also afflicts all players with Scorched Flesh.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26963,
                 "headerType": 2,
@@ -1221,7 +1221,7 @@
             {
                 "abilityIcon": 4914675,
                 "creatureDisplayID": 0,
-                "description": "Volatile energy lingers on the player, inflicting 28,626 Shadowflame damage every 1 sec for 30 sec.",
+                "description": "Volatile energy lingers on the player, inflicting 16,358 Shadowflame damage every 1 sec for 30 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:27145:15|h[Overcharged]|h|r",
@@ -1807,7 +1807,7 @@
             {
                 "abilityIcon": 134153,
                 "creatureDisplayID": 0,
-                "description": "Magmorax roars, inflicting 143,128 Fire damage on impact and an additional 4,089 Fire damage every 1 sec to all players. This effect stacks.\\n\\nAdditionally, Magmorax expels numerous |cffffffffLava Ejection|rs into the chamber.",
+                "description": "Magmorax roars, inflicting 143,128 Fire damage on impact and an additional 3,680 Fire damage every 1 sec to all players. This effect stacks.\\n\\nAdditionally, Magmorax expels numerous |cffffffffLava Ejection|rs into the chamber.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 27135,
                 "headerType": 2,
@@ -1899,7 +1899,7 @@
             {
                 "abilityIcon": 236220,
                 "creatureDisplayID": 0,
-                "description": "|cffffffffMagma Puddle|rs set players within the area ablaze, inflicting 8,179 Fire damage every 1 sec for 15 sec. This effect stacks.\\n\\nUpon reaching 25 applications, the player is |cffffffffIncinerated|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02On Heroic difficulty, players are Incinerated upon reaching 25 applications of Searing Heat. |r",
+                "description": "|cffffffffMagma Puddle|rs set players within the area ablaze, inflicting 7,361 Fire damage every 1 sec for 15 sec. This effect stacks.\\n\\nUpon reaching 25 applications, the player is |cffffffffIncinerated|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02On Heroic difficulty, players are Incinerated upon reaching 25 applications of Searing Heat. |r",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 27118,
                 "headerType": 2,
@@ -2763,7 +2763,7 @@
             {
                 "abilityIcon": 4914670,
                 "creatureDisplayID": 0,
-                "description": "Being struck with most Void abilities causes Oblivion, inflicting 7,361 Shadow damage every 1 sec for 25 sec. Upon reaching 10 applications, the affected player is lost in the |cffffffffEmptiness Between Stars|r.",
+                "description": "Being struck with most Void abilities causes Oblivion, inflicting 12,268 Shadow damage every 1 sec for 25 sec. Upon reaching 10 applications, the affected player is lost in the |cffffffffEmptiness Between Stars|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26148,
                 "headerType": 2,
@@ -3022,7 +3022,7 @@
             {
                 "abilityIcon": 135265,
                 "creatureDisplayID": 0,
-                "description": "A fiery blast consumes the bomb, inflicting 61,307 Fire damage to all players instantly with an additional 25,763 Fire damage every 1 sec for 5 sec.",
+                "description": "A fiery blast consumes the bomb, inflicting 61,307 Fire damage to all players instantly with an additional 22,083 Fire damage every 1 sec for 5 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26169:15|h[Scorching Detonation]|h|r",
@@ -3149,7 +3149,7 @@
             {
                 "abilityIcon": 4914667,
                 "creatureDisplayID": 0,
-                "description": "An eruption of dread inflicts 98,145 Shadow damage to all players and knocks them away.",
+                "description": "An eruption of dread inflicts 163,575 Shadow damage to all players and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26261:15|h[Dread]|h|r",
@@ -3161,7 +3161,7 @@
             {
                 "abilityIcon": 4914667,
                 "creatureDisplayID": 0,
-                "description": "An eruption of dread inflicts 98,145 Shadow damage to all players and knocks them away.",
+                "description": "An eruption of dread inflicts 163,575 Shadow damage to all players and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26262:15|h[Dread]|h|r",
@@ -4300,7 +4300,7 @@
             {
                 "abilityIcon": 4622451,
                 "creatureDisplayID": 0,
-                "description": "Rionthus tears into players with blasts of blue magic, inflicting 43,791 Spellfrost damage every 1 sec over 3 sec.\\n\\nThe magic lingers, slowing affected players by 30% and causing them to inflict 32,849 Spellfrost damage every 1 sec to players within 5 yards for 32 sec.\\n",
+                "description": "Rionthus tears into players with blasts of blue magic, inflicting 71,161 Spellfrost damage every 1 sec over 3 sec.\\n\\nThe magic lingers, slowing affected players by 30% and causing them to inflict 32,849 Spellfrost damage every 1 sec to players within 5 yards for 32 sec.\\n",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26334:16|h[Disintegrate]|h|r",
@@ -4326,7 +4326,7 @@
             {
                 "abilityIcon": 1396978,
                 "creatureDisplayID": 0,
-                "description": "Neldris charges between several players, inflicting 273,695 Physical damage to anyone in her path, knocking them back, and causing them to bleed for 27,370 Physical damage every 1 sec. This effect stacks.\\n\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Rending Charge does not expire.|r",
+                "description": "Neldris charges between several players, inflicting 273,695 Physical damage to anyone in her path, knocking them back, and causing them to bleed for 32,843 Physical damage every 1 sec. This effect stacks.\\n\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Rending Charge does not expire.|r",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26416:16|h[Rending Charge]|h|r",
@@ -4339,7 +4339,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 27,369 Arcane damage to all players and an additional 27,370 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 27,369 Arcane damage to all players and an additional 32,843 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26496:16|h[Infused Explosion]|h|r",
@@ -4351,7 +4351,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 27,369 Arcane damage to all players and an additional 27,370 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 27,369 Arcane damage to all players and an additional 32,843 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26497:16|h[Infused Explosion]|h|r",
@@ -4363,7 +4363,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 27,369 Arcane damage to all players and an additional 27,370 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 27,369 Arcane damage to all players and an additional 32,843 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26498:16|h[Infused Explosion]|h|r",
@@ -4375,7 +4375,7 @@
             {
                 "abilityIcon": 4630480,
                 "creatureDisplayID": 0,
-                "description": "Rionthus creates a vortex of temporal energy that begins to drift toward him. If the anomaly collides with Rionthus, he gains a shield that absorbs damage equal to 10% of his maximum health.\\n\\nIf a player collides with the anomaly, it inflicts 82,108 Arcane damage, applies |cffffffffTemporal Fracture|r, and is knocked away.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Temporal Anomalies apply Temporal Fracture.|r",
+                "description": "Rionthus creates a vortex of temporal energy that begins to drift toward him. If the anomaly collides with Rionthus, he gains a shield that absorbs damage equal to 20% of his maximum health.\\n\\nIf a player collides with the anomaly, it inflicts 136,847 Arcane damage, applies |cffffffffTemporal Fracture|r, and is knocked away.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Temporal Anomalies apply Temporal Fracture.|r",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26713,
                 "headerType": 2,
@@ -4452,7 +4452,7 @@
             {
                 "abilityIcon": 3033715,
                 "creatureDisplayID": 0,
-                "description": "Thadrion erupts with energy, inflicting 82,109 Arcane damage to all players every 1 sec for 8 sec. \\n\\n|cffffffffErratic Remnant|rs react to the violent energy, inflicting 54,739 Arcane damage to all players every 1 sec during Violent Eruption.",
+                "description": "Thadrion erupts with energy, inflicting 98,530 Arcane damage to all players every 1 sec for 8 sec. \\n\\n|cffffffffErratic Remnant|rs react to the violent energy, inflicting 54,739 Arcane damage to all players every 1 sec during Violent Eruption.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26727:16|h[Violent Eruption]|h|r",
@@ -4528,7 +4528,7 @@
             {
                 "abilityIcon": 4914677,
                 "creatureDisplayID": 0,
-                "description": "Rashok smashes the ground with the Shadowflame-infused Djaruun, inflicting 6.5 million Shadowflame damage split evenly among players within 10 yards of the impact location. All players are afflicted with |cffffffffOvercharged|r.\\n\\nRashok gains up to 15 energy, reduced by the number of players hit.",
+                "description": "Rashok smashes the ground with the Shadowflame-infused Djaruun, inflicting 4.9 million Shadowflame damage split evenly among players within 10 yards of the impact location. All players are afflicted with |cffffffffOvercharged|r.\\n\\nRashok gains up to 50 energy, reduced by the number of players hit.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26635,
                 "headerType": 2,
@@ -4555,7 +4555,7 @@
             {
                 "abilityIcon": 4914676,
                 "creatureDisplayID": 0,
-                "description": "Rashok launches a barrage of shadowflame missiles across the chamber. Each missile inflicts 164,127 Shadowflame damage to players within 5 yards of its impact location and an additional 109,478 Shadowflame damage every 1 sec for 8 sec. This effect stacks.\\n\\nEach missile that fails to hit a player erupts, inflicting 164,127 Shadowflame damage to all players.",
+                "description": "Rashok launches a barrage of shadowflame missiles across the chamber. Each missile inflicts 164,127 Shadowflame damage to players within 5 yards of its impact location and an additional 82,109 Shadowflame damage every 1 sec for 8 sec. This effect stacks.\\n\\nEach missile that fails to hit a player erupts, inflicting 164,127 Shadowflame damage to all players.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26352:16|h[Doom Flames]|h|r",
@@ -4581,7 +4581,7 @@
             {
                 "abilityIcon": 1320372,
                 "creatureDisplayID": 0,
-                "description": "Rashok roars in pain, inflicting 82,109 Shadowflame damage to all players as he breaks free from the |cffffffffElder's Conduit|r.\\n\\nRashok's inner flame smolders as he breaks free from his prison, increasing the damage of |cffffffffScorching Heatwave|r by 500%.",
+                "description": "Rashok roars in pain, inflicting 27,370 Shadowflame damage to all players as he breaks free from the |cffffffffElder's Conduit|r.\\n\\nRashok's inner flame smolders as he breaks free from his prison, increasing the damage of |cffffffffScorching Heatwave|r by 500%.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26368:16|h[Smoldering Rage]|h|r",
@@ -4593,7 +4593,7 @@
             {
                 "abilityIcon": 524795,
                 "creatureDisplayID": 0,
-                "description": "Rashok slashes at his current target, inflicting 1.2 million Fire damage and increasing damage taken by |cffffffffFlaming Slash|r by 500% for 6 sec.\\n",
+                "description": "Rashok slashes at his current target, inflicting 1.2 million Fire damage and increasing damage taken by |cffffffffFlaming Slash|r by 3,000% for 6 sec.\\n",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26501:16|h[Flaming Slash]|h|r",
@@ -4606,7 +4606,7 @@
             {
                 "abilityIcon": 1016245,
                 "creatureDisplayID": 0,
-                "description": "Rashok crushes his current target, inflicting 2.1 million Physical damage and increasing damage taken by  |cffffffffEarthen Crush|r by 1,000% for 6 sec.",
+                "description": "Rashok crushes his current target, inflicting 2.9 million Physical damage and increasing damage taken by  |cffffffffEarthen Crush|r by 3,000% for 6 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26502:16|h[Earthen Crush]|h|r",
@@ -4680,7 +4680,7 @@
             {
                 "abilityIcon": 4914675,
                 "creatureDisplayID": 0,
-                "description": "Volatile energy lingers on the player, inflicting 65,687 Shadowflame damage every 1 sec.\\n\\nThe Elder's Conduit removes applications of Overcharged from players within the area and triggers a |cffffffffConduit Flare|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Overcharged does not expire and triggers Conduit Flare upon removal.",
+                "description": "Volatile energy lingers on the player, inflicting 54,739 Shadowflame damage every 1 sec.\\n\\nThe Elder's Conduit removes applications of Overcharged from players within the area and triggers a |cffffffffConduit Flare|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Overcharged does not expire and triggers Conduit Flare upon removal.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26806,
                 "headerType": 2,
@@ -4693,7 +4693,7 @@
             {
                 "abilityIcon": 4914673,
                 "creatureDisplayID": 0,
-                "description": "Rashok unleashes energy from his body, inflicting 109,478 Shadowflame damage to all players and sending orbs of |cffffffffShadowflame Energy|r across the chamber.",
+                "description": "Rashok unleashes energy from his body, inflicting 54,739 Shadowflame damage to all players and sending orbs of |cffffffffShadowflame Energy|r across the chamber.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26659,
                 "headerType": 2,
@@ -4707,7 +4707,7 @@
             {
                 "abilityIcon": 4914678,
                 "creatureDisplayID": 0,
-                "description": "Volatile orb of shadowflame energy that inflicts 109,478 Shadowflame damage to players within the area.\\n\\nEach orb explodes after 15 sec, inflicting 82,109 Shadowflame damage to all players and increasing the damage taken from |cffffffffShadowflame Energy|r by 1,000%. Also causing the next 336,533 healing they receive to be absorbed.",
+                "description": "Volatile orb of shadowflame energy that inflicts 109,478 Shadowflame damage to players within the area.\\n\\nEach orb explodes after 15 sec, inflicting 41,054 Shadowflame damage to all players and increasing the damage taken from |cffffffffShadowflame Energy|r by 2,000%. Also causing the next 336,533 healing they receive to be absorbed.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26659:16|h[Shadowflame Energy]|h|r",
@@ -4719,7 +4719,7 @@
             {
                 "abilityIcon": 236289,
                 "creatureDisplayID": 0,
-                "description": "Rashok leaps toward a target player and slams the ground, creating a |cffffffffLava Vortex|r at that location and inflicting 273,695 Fire damage to all players. This damage is increased by 20% for each |cffffffffLava Vortex|r in the chamber.\\n\\nThe slam's impact causes each |cffffffffLava Vortex|r to pour forth |cffffffffLava Wave|r.\\n\\nA |cffffffffLava Explosion|r erupts if |cffffffffSearing Slam|r hits a |cffffffffLava Vortex|r.\\n\\n|cffffffffShadowflame Energy|r hit by |cffffffffSearing Slam|r is destroyed.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Shadowflame Energy hit by Searing Slam is destroyed.",
+                "description": "Rashok leaps toward a target player and slams the ground, creating a |cffffffffLava Vortex|r at that location and inflicting 251,800 Fire damage to all players. This damage is increased by 20% for each |cffffffffLava Vortex|r in the chamber.\\n\\nThe slam's impact causes each |cffffffffLava Vortex|r to pour forth |cffffffffLava Wave|r.\\n\\nA |cffffffffLava Explosion|r erupts if |cffffffffSearing Slam|r hits a |cffffffffLava Vortex|r.\\n\\n|cffffffffShadowflame Energy|r hit by |cffffffffSearing Slam|r is destroyed.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Mythic difficulty, Shadowflame Energy hit by Searing Slam is destroyed.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26663,
                 "headerType": 2,
@@ -4784,7 +4784,7 @@
             {
                 "abilityIcon": 4914674,
                 "creatureDisplayID": 0,
-                "description": "Rashok periodically emits scorching heat as his energy is drained by the |cffffffffElder's Conduit|r, inflicting 164,127 Shadowflame damage to all players and applying |cffffffffScorched Flesh|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Heroic difficulty and above, also afflicts all players with Scorched Flesh.",
+                "description": "Rashok periodically emits scorching heat as his energy is drained by the |cffffffffElder's Conduit|r, inflicting 147,795 Shadowflame damage to all players and applying |cffffffffScorched Flesh|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02In Heroic difficulty and above, also afflicts all players with Scorched Flesh.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26726,
                 "headerType": 2,
@@ -4810,7 +4810,7 @@
             {
                 "abilityIcon": 135815,
                 "creatureDisplayID": 0,
-                "description": "The conduit flares with power, inflicting 65,687 Shadowflame damage to all players.",
+                "description": "The conduit flares with power, inflicting 62,074 Shadowflame damage to all players.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26806:16|h[Conduit Flare]|h|r",
@@ -5354,7 +5354,7 @@
             {
                 "abilityIcon": 1029721,
                 "creatureDisplayID": 0,
-                "description": "Zskarn unleashes a |cffffffffBlast Wave|r that knocks all players back, inflicting 191,587 Fire damage on impact and an additional 38,317 Fire damage every 0.5 sec for 15 sec.",
+                "description": "Zskarn unleashes a |cffffffffBlast Wave|r that knocks all players back, inflicting 164,217 Fire damage on impact and an additional 32,843 Fire damage every 0.5 sec for 15 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26398:16|h[Blast Wave]|h|r",
@@ -5367,7 +5367,7 @@
             {
                 "abilityIcon": 236215,
                 "creatureDisplayID": 0,
-                "description": "Zskarn covers targets in |cffffffffUnstable Embers|r, inflicting 87,582 Fire damage every 1 sec for 10 sec.\\n\\nPlayers afflicted by |cffffffffUnstable Embers|r inflict 87,582 Fire damage to allies within 5 yards every 1 sec for 10 sec.",
+                "description": "Zskarn covers targets in |cffffffffUnstable Embers|r, inflicting 65,687 Fire damage every 1 sec for 10 sec.\\n\\nPlayers afflicted by |cffffffffUnstable Embers|r inflict 65,687 Fire damage to allies within 5 yards every 1 sec for 10 sec.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26718,
                 "headerType": 2,
@@ -5432,7 +5432,7 @@
             {
                 "abilityIcon": 236216,
                 "creatureDisplayID": 0,
-                "description": "Zskarn unleashes a powerful blast at players that were marked with |cffffffffUnstable Embers|r, inflicting 191,587 Fire damage to players in the direction of his targets. \\n\\nPlayers hit by Elimination Protocol take 500% increased damage from |cffffffffElimination Protocol|r for 30 sec.",
+                "description": "Zskarn unleashes a powerful blast at players that were marked with |cffffffffUnstable Embers|r, inflicting 164,217 Fire damage to players in the direction of his targets. \\n\\nPlayers hit by Elimination Protocol take 500% increased damage from |cffffffffElimination Protocol|r for 30 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26718:16|h[Elimination Protocol]|h|r",
@@ -5496,7 +5496,7 @@
             {
                 "abilityIcon": 134153,
                 "creatureDisplayID": 0,
-                "description": "Magmorax roars, inflicting 191,587 Fire damage on impact and an additional 6,842 Fire damage every 1 sec to all players. This effect stacks.\\n\\nAdditionally, Magmorax expels numerous |cffffffffLava Ejection|rs into the chamber.",
+                "description": "Magmorax roars, inflicting 191,587 Fire damage on impact and an additional 4,619 Fire damage every 1 sec to all players. This effect stacks.\\n\\nAdditionally, Magmorax expels numerous |cffffffffLava Ejection|rs into the chamber.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 27135,
                 "headerType": 2,
@@ -5601,7 +5601,7 @@
             {
                 "abilityIcon": 236220,
                 "creatureDisplayID": 0,
-                "description": "|cffffffffMagma Puddle|rs set players within the area ablaze, inflicting 2,190 Fire damage every 1 sec. This effect stacks.\\n\\nUpon reaching 50 applications, the player is |cffffffffIncinerated|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02On Mythic difficulty, Searing Heat does not expire. |r",
+                "description": "|cffffffffMagma Puddle|rs set players within the area ablaze, inflicting 1,560 Fire damage every 1 sec. This effect stacks.\\n\\nUpon reaching 40 applications, the player is |cffffffffIncinerated|r.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02On Mythic difficulty, Searing Heat does not expire. |r",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 27120,
                 "headerType": 2,
@@ -5640,7 +5640,7 @@
             {
                 "abilityIcon": 135826,
                 "creatureDisplayID": 0,
-                "description": "Upon reaching 50 stacks of |cffffffffSearing Heat|r, the player is incinerated, suffering 5.4 million Fire damage. \\n",
+                "description": "Upon reaching 40 stacks of |cffffffffSearing Heat|r, the player is incinerated, suffering 5.4 million Fire damage. \\n",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:27120:16|h[Incinerated]|h|r",
@@ -6458,7 +6458,7 @@
             {
                 "abilityIcon": 4914670,
                 "creatureDisplayID": 0,
-                "description": "Being struck with most Void abilities causes Oblivion, inflicting 9,853 Shadow damage every 1 sec for 20 min. Upon reaching 10 applications, the affected player is lost in the |cffffffffEmptiness Between Stars|r.",
+                "description": "Being struck with most Void abilities causes Oblivion, inflicting 16,422 Shadow damage every 1 sec for 20 min. Upon reaching 10 applications, the affected player is lost in the |cffffffffEmptiness Between Stars|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26148,
                 "headerType": 2,
@@ -6831,7 +6831,7 @@
             {
                 "abilityIcon": 4914667,
                 "creatureDisplayID": 0,
-                "description": "An eruption of dread inflicts 131,374 Shadow damage to all players and knocks them away.",
+                "description": "An eruption of dread inflicts 218,956 Shadow damage to all players and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26261:16|h[Dread]|h|r",
@@ -6843,7 +6843,7 @@
             {
                 "abilityIcon": 4914667,
                 "creatureDisplayID": 0,
-                "description": "An eruption of dread inflicts 131,374 Shadow damage to all players and knocks them away.",
+                "description": "An eruption of dread inflicts 218,956 Shadow damage to all players and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26262:16|h[Dread]|h|r",
@@ -7875,7 +7875,7 @@
             {
                 "abilityIcon": 4622451,
                 "creatureDisplayID": 0,
-                "description": "Rionthus tears into players with blasts of blue magic, inflicting 23,614 Spellfrost damage every 1 sec over 3 sec.\\n\\nThe magic lingers, slowing affected players by 30% and causing them to inflict 8,858 Spellfrost damage every 1 sec to players within 5 yards for 16 sec.\\n",
+                "description": "Rionthus tears into players with blasts of blue magic, inflicting 38,373 Spellfrost damage every 1 sec over 3 sec.\\n\\nThe magic lingers, slowing affected players by 30% and causing them to inflict 8,858 Spellfrost damage every 1 sec to players within 5 yards for 16 sec.\\n",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26334:14|h[Disintegrate]|h|r",
@@ -7914,7 +7914,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 14,759 Arcane damage to all players and an additional 11,807 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 14,759 Arcane damage to all players and an additional 17,711 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26496:14|h[Infused Explosion]|h|r",
@@ -7926,7 +7926,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 14,759 Arcane damage to all players and an additional 11,807 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 14,759 Arcane damage to all players and an additional 17,711 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26497:14|h[Infused Explosion]|h|r",
@@ -7938,7 +7938,7 @@
             {
                 "abilityIcon": 4638528,
                 "creatureDisplayID": 0,
-                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 14,759 Arcane damage to all players and an additional 11,807 Arcane damage every 2 sec for 20 sec. This effect stacks.",
+                "description": "The energy from |cffffffffInfused Strikes|r explodes, inflicting 14,759 Arcane damage to all players and an additional 17,711 Arcane damage every 2 sec for 20 sec. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26498:14|h[Infused Explosion]|h|r",
@@ -7963,7 +7963,7 @@
             {
                 "abilityIcon": 4630480,
                 "creatureDisplayID": 0,
-                "description": "Rionthus creates a vortex of temporal energy that begins to drift toward him. If the anomaly collides with Rionthus, he gains a shield that absorbs damage equal to 5% of his maximum health.\\n\\nIf a player collides with the anomaly, it inflicts 29,518 Arcane damage and is knocked away.",
+                "description": "Rionthus creates a vortex of temporal energy that begins to drift toward him. If the anomaly collides with Rionthus, he gains a shield that absorbs damage equal to 10% of his maximum health.\\n\\nIf a player collides with the anomaly, it inflicts 59,036 Arcane damage and is knocked away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26717:14|h[Temporal Anomaly]|h|r",
@@ -8118,7 +8118,7 @@
             {
                 "abilityIcon": 1320372,
                 "creatureDisplayID": 0,
-                "description": "Rashok roars in pain, inflicting 44,277 Shadowflame damage to all players as he breaks free from the |cffffffffElder's Conduit|r.\\n\\nRashok's inner flame smolders as he breaks free from his prison, increasing the damage of |cffffffffScorching Heatwave|r by 500%.",
+                "description": "Rashok roars in pain, inflicting 14,759 Shadowflame damage to all players as he breaks free from the |cffffffffElder's Conduit|r.\\n\\nRashok's inner flame smolders as he breaks free from his prison, increasing the damage of |cffffffffScorching Heatwave|r by 500%.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26368:14|h[Smoldering Rage]|h|r",
@@ -8256,7 +8256,7 @@
             {
                 "abilityIcon": 451169,
                 "creatureDisplayID": 0,
-                "description": "A roiling wave of lava that inflicts 221,890 Fire damage every 1 sec to players within the area.",
+                "description": "A roiling wave of lava that inflicts 88,554 Fire damage every 1 sec to players within the area.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26942:14|h[Lava Wave]|h|r",
@@ -9746,7 +9746,7 @@
             {
                 "abilityIcon": 4914670,
                 "creatureDisplayID": 0,
-                "description": "Being struck with most Void abilities causes Oblivion, inflicting 5,018 Shadow damage every 1 sec for 25 sec. Upon reaching 10 applications, the affected player is lost in the |cffffffffEmptiness Between Stars|r.",
+                "description": "Being struck with most Void abilities causes Oblivion, inflicting 8,855 Shadow damage every 1 sec for 25 sec. Upon reaching 10 applications, the affected player is lost in the |cffffffffEmptiness Between Stars|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26148,
                 "headerType": 2,
