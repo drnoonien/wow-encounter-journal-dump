@@ -47,8 +47,9 @@
             {
                 "abilityIcon": 236302,
                 "creatureDisplayID": 0,
-                "description": "Upon reaching 100 energy, Kazzara unleashes an annihilating beam from her jaws, inflicting 184,022 Shadowflame damage every 0.3 sec for 3 sec to any players caught inside. The superheated breath inflicts an additional 10,223 Shadowflame damage every 0.3 sec to all players.\\n\\nKazzara disgorges increasing amounts of |cffffffffRevenant's Blood|r as her armor is shattered off.",
+                "description": "Upon reaching 100 energy, Kazzara unleashes an annihilating beam from her jaws, inflicting 184,022 Shadowflame damage every 0.3 sec for 3 sec to any players caught inside. The superheated breath inflicts an additional 8,179 Shadowflame damage every 0.3 sec to all players.\\n\\nKazzara disgorges increasing amounts of |cffffffffRevenant's Blood|r as her armor is shattered off.",
                 "filteredByDifficulty": false,
+                "firstChildSectionID": 27184,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26178:15|h[Hellbeam]|h|r",
                 "siblingSectionID": 26204,
@@ -151,7 +152,7 @@
             {
                 "abilityIcon": 514018,
                 "creatureDisplayID": 0,
-                "description": "Kazzara's exposed core pulses with her molten heartbeat inflicting 32,715 Shadowflame damage to all players every 4 sec, hastening as she loses more armor.",
+                "description": "Kazzara's exposed core pulses with her molten heartbeat inflicting 24,536 Shadowflame damage to all players every 4 sec, hastening as she loses more armor.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26549:15|h[Infernal Heart]|h|r",
@@ -220,6 +221,18 @@
                 "spellID": 407517,
                 "startsOpen": false,
                 "title": "Molten Scar",
+                "uiModelSceneID": 0
+            },
+            {
+                "abilityIcon": 538040,
+                "creatureDisplayID": 0,
+                "description": "Kazzara's gruesome wounds spew out masses of her lifeblood, each inflicting 163,575 Shadowflame damage within 3 yards of impact.",
+                "filteredByDifficulty": false,
+                "headerType": 2,
+                "link": "|cff66bbff|Hjournal:2:27184:15|h[Revenant's Blood]|h|r",
+                "spellID": 404789,
+                "startsOpen": false,
+                "title": "Revenant's Blood",
                 "uiModelSceneID": 0
             }
         ],
@@ -2366,7 +2379,7 @@
             {
                 "abilityIcon": 237583,
                 "creatureDisplayID": 0,
-                "description": "Lava seeps out from each |cffffffffEchoing Fissure|r, inflicting 184,022 Volcanic damage every 1.5 sec. to players within the area.",
+                "description": "Lava seeps out from each |cffffffffEchoing Fissure|r, inflicting 327,151 Volcanic damage every 1 sec. to players within the area.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26657:15|h[Seeping Lava]|h|r",
@@ -2435,7 +2448,7 @@
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26780:15|h[Volcanic Heart]|h|r",
-                "siblingSectionID": 26778,
+                "siblingSectionID": 26695,
                 "spellID": 410953,
                 "startsOpen": false,
                 "title": "Volcanic Heart",
@@ -2448,7 +2461,7 @@
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26781:15|h[Volcanic Heart]|h|r",
-                "siblingSectionID": 26782,
+                "siblingSectionID": 26430,
                 "spellID": 410953,
                 "startsOpen": false,
                 "title": "Volcanic Heart",
@@ -2874,7 +2887,7 @@
             {
                 "abilityIcon": 132886,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 98,145 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
+                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 98,184 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26241,
                 "headerType": 2,
@@ -2901,7 +2914,7 @@
             {
                 "abilityIcon": 132886,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 98,145 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
+                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 98,184 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26243,
                 "headerType": 2,
@@ -3071,7 +3084,7 @@
             {
                 "abilityIcon": 4622459,
                 "creatureDisplayID": 0,
-                "description": "Motes of flame fall from above, inflicting 118,592 Fire damage and knocking back players within 4 yards of the impact.",
+                "description": "Motes of flame fall from above, inflicting 118,586 Fire damage and knocking back players within 4 yards of the impact.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26186:15|h[Drifting Embers]|h|r",
@@ -3084,7 +3097,7 @@
             {
                 "abilityIcon": 607852,
                 "creatureDisplayID": 0,
-                "description": "When |cffffffffOppressing Howl|r is removed from a player, echoing darkness erupts forth and inflicts 28,626 Shadow damage to all players.",
+                "description": "When |cffffffffOppressing Howl|r is removed from a player, echoing darkness erupts forth and inflicts 36,804 Shadow damage to all players.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26203:15|h[Echoing Howl]|h|r",
@@ -3097,7 +3110,7 @@
             {
                 "abilityIcon": 425955,
                 "creatureDisplayID": 0,
-                "description": "The bomb erupts with void energy, inflicting 114,503 Shadow damage to all players every 1 sec for 4 sec.",
+                "description": "The bomb erupts with void energy, inflicting 114,506 Shadow damage to all players every 1 sec for 4 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26241:15|h[Void Surge]|h|r",
@@ -3123,7 +3136,7 @@
             {
                 "abilityIcon": 425955,
                 "creatureDisplayID": 0,
-                "description": "The bomb erupts with void energy, inflicting 114,503 Shadow damage to all players every 1 sec for 4 sec.",
+                "description": "The bomb erupts with void energy, inflicting 114,506 Shadow damage to all players every 1 sec for 4 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26243:15|h[Void Surge]|h|r",
@@ -3427,8 +3440,9 @@
             {
                 "abilityIcon": 236302,
                 "creatureDisplayID": 0,
-                "description": "Upon reaching 100 energy, Kazzara unleashes an annihilating beam from her jaws, inflicting 246,326 Shadowflame damage every 0.3 sec for 3 sec to any players caught inside. The superheated breath inflicts an additional 16,413 Shadowflame damage every 0.3 sec to all players.\\n\\nKazzara disgorges increasing amounts of |cffffffffRevenant's Blood|r as her armor is shattered off.",
+                "description": "Upon reaching 100 energy, Kazzara unleashes an annihilating beam from her jaws, inflicting 246,326 Shadowflame damage every 0.3 sec for 3 sec to any players caught inside. The superheated breath inflicts an additional 10,948 Shadowflame damage every 0.3 sec to all players.\\n\\nKazzara disgorges increasing amounts of |cffffffffRevenant's Blood|r as her armor is shattered off.",
                 "filteredByDifficulty": false,
+                "firstChildSectionID": 27184,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26178:16|h[Hellbeam]|h|r",
                 "siblingSectionID": 26204,
@@ -3466,7 +3480,7 @@
             {
                 "abilityIcon": 2103916,
                 "creatureDisplayID": 0,
-                "description": "Kazzara thrashes her fiery wings, inflicting 136,848 Shadowflame damage to all players and pushing them away. The flames linger, inflicting an additional 49,265 Shadowflame damage every 2 sec for 20 sec.",
+                "description": "Kazzara thrashes her fiery wings, inflicting 136,848 Shadowflame damage to all players and pushing them away. The flames linger, inflicting an additional 43,791 Shadowflame damage every 2 sec for 20 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26204:16|h[Wings of Extinction]|h|r",
@@ -3479,7 +3493,7 @@
             {
                 "abilityIcon": 4914676,
                 "creatureDisplayID": 0,
-                "description": "Kazzara releases a furious roar that incites a burning mark within several players. After 5 sec, unworldly rifts tear open beneath these players in a torrent of dreadfire inflicting 273,695 Shadowflame damage within 5 yards.\\n\\nKazzara's exposed core causes |cffffffffDread Rifts|r to target an additional player for each piece of armor that has been shattered.",
+                "description": "Kazzara releases a furious roar that incites a burning mark within several players. After 5 sec, unworldly rifts tear open beneath these players in a torrent of dreadfire inflicting 246,326 Shadowflame damage within 5 yards.\\n\\nKazzara's exposed core causes |cffffffffDread Rifts|r to target an additional player for each piece of armor that has been shattered.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26449,
                 "headerType": 2,
@@ -3531,7 +3545,7 @@
             {
                 "abilityIcon": 514018,
                 "creatureDisplayID": 0,
-                "description": "Kazzara's exposed core pulses with her molten heartbeat inflicting 54,739 Shadowflame damage to all players every 4 sec, hastening as she loses more armor.",
+                "description": "Kazzara's exposed core pulses with her molten heartbeat inflicting 38,317 Shadowflame damage to all players every 4 sec, hastening as she loses more armor.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26549:16|h[Infernal Heart]|h|r",
@@ -3589,6 +3603,18 @@
                 "spellID": 407517,
                 "startsOpen": false,
                 "title": "Molten Scar",
+                "uiModelSceneID": 0
+            },
+            {
+                "abilityIcon": 538040,
+                "creatureDisplayID": 0,
+                "description": "Kazzara's gruesome wounds spew out masses of her lifeblood, each inflicting 218,956 Shadowflame damage within 3 yards of impact.",
+                "filteredByDifficulty": false,
+                "headerType": 2,
+                "link": "|cff66bbff|Hjournal:2:27184:16|h[Revenant's Blood]|h|r",
+                "spellID": 404789,
+                "startsOpen": false,
+                "title": "Revenant's Blood",
                 "uiModelSceneID": 0
             }
         ],
@@ -4830,7 +4856,7 @@
             {
                 "abilityIcon": 841381,
                 "creatureDisplayID": 0,
-                "description": "The Renewed Hatchling fixates on a nearby player and pulses with flame, inflicting 49,292 Fire damage to players within 12 yards every 8 sec.",
+                "description": "The Renewed Hatchling fixates on a nearby player and pulses with flame, inflicting 32,843 Fire damage to players within 12 yards every 2 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26741:16|h[Blazing Focus]|h|r",
@@ -5381,7 +5407,7 @@
             {
                 "abilityIcon": 133710,
                 "creatureDisplayID": 0,
-                "description": "After 30 seconds |cffffffffShrapnel Bomb|r detonates inflicting 547,390 Physical damage and an additional 136,848 Physical damage every 1 sec for 10 sec to all players.\\n\\nTriggering a |cffffffffShrapnel Bomb|r early instead causes a localized detonation, inflicting 1 million Physical damage to the player that triggered the detonation and an additional 136,848 Physical damage every 1 sec for 8 sec.",
+                "description": "After 30 seconds |cffffffffShrapnel Bomb|r detonates inflicting 821,086 Physical damage and an additional 191,587 Physical damage every 1 sec for 10 sec to all players.\\n\\nTriggering a |cffffffffShrapnel Bomb|r early instead causes a localized detonation, inflicting 1 million Physical damage to the player that triggered the detonation and an additional 136,848 Physical damage every 1 sec for 8 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26402:16|h[Shrapnel Bomb]|h|r",
@@ -5562,7 +5588,7 @@
             {
                 "abilityIcon": 135822,
                 "creatureDisplayID": 0,
-                "description": "Upon reaching 100 energy, Magmorax erupts into flame, increasing Physical damage done by 150%. \\n\\nThe explosion inflicts 164,217 Fire damage to all players every 2 sec and increases Fire damage taken by 50%. This effect stacks.",
+                "description": "Upon reaching 100 energy, Magmorax erupts into flame, increasing Physical damage done by 150%. \\n\\nThe explosion inflicts 164,217 Fire damage to all players every 2 sec and increases Fire damage taken by 100%. This effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26546:16|h[Catastrophic Eruption]|h|r",
@@ -5804,7 +5830,7 @@
             {
                 "abilityIcon": 136025,
                 "creatureDisplayID": 0,
-                "description": "Neltharion shatters the ground beneath him, inflicting 1.6 million Volcanic damage players within 24 yards of the impact, and an additional 164,643 Volcanic damage to all other players. The effect echoes at each previous location when |cffffffffEchoing Fissure|r is cast. \\n\\nEach cast causes |cffffffffCollapsed Earth|r and spreads |cffffffffSeeping Lava|r.",
+                "description": "Neltharion shatters the ground beneath him, inflicting 1.6 million Volcanic damage players within 24 yards of the impact, and an additional 205,271 Volcanic damage to all other players. The effect echoes at each previous location when |cffffffffEchoing Fissure|r is cast. \\n\\nEach cast causes |cffffffffCollapsed Earth|r and spreads |cffffffffSeeping Lava|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26786,
                 "headerType": 2,
@@ -5859,7 +5885,7 @@
             {
                 "abilityIcon": 135830,
                 "creatureDisplayID": 0,
-                "description": "The erupting segment of |cffffffffTwisted Earth|r inflicts 328,434 Volcanic damage to players in 7 yards, and knocks them away.",
+                "description": "The erupting segment of |cffffffffTwisted Earth|r inflicts 410,543 Volcanic damage to players in 7 yards, and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26435:16|h[Volcanic Blast]|h|r",
@@ -6001,7 +6027,7 @@
             {
                 "abilityIcon": 237583,
                 "creatureDisplayID": 0,
-                "description": "Lava seeps out from each |cffffffffEchoing Fissure|r, inflicting 246,326 Volcanic damage every 1.5 sec. to players within the area.",
+                "description": "Lava seeps out from each |cffffffffEchoing Fissure|r, inflicting 437,912 Volcanic damage every 1 sec. to players within the area.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26657:16|h[Seeping Lava]|h|r",
@@ -6027,7 +6053,7 @@
             {
                 "abilityIcon": 135830,
                 "creatureDisplayID": 0,
-                "description": "The erupting segment of |cffffffffTwisted Earth|r inflicts 328,434 Volcanic damage to players in 7 yards, and knocks them away.",
+                "description": "The erupting segment of |cffffffffTwisted Earth|r inflicts 410,543 Volcanic damage to players in 7 yards, and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26696:16|h[Volcanic Blast]|h|r",
@@ -6063,19 +6089,6 @@
                 "uiModelSceneID": 0
             },
             {
-                "abilityIcon": 514018,
-                "creatureDisplayID": 0,
-                "description": "Neltharion infuses players with volcanic energy that explodes after 7 sec, inflicting 875,825 Volcanic damage to players in line of sight, and an additional 109,428 Volcanic damage every 1.5 sec for 15 sec.\\n\\nThis effect stacks.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02On Mythic difficulty, damage is inflicted to all players in line of sight of the targeted players.|r",
-                "filteredByDifficulty": false,
-                "headerType": 2,
-                "link": "|cff66bbff|Hjournal:2:26778:16|h[Volcanic Heart]|h|r",
-                "siblingSectionID": 26695,
-                "spellID": 410953,
-                "startsOpen": false,
-                "title": "Volcanic Heart",
-                "uiModelSceneID": 0
-            },
-            {
                 "abilityIcon": 1044088,
                 "creatureDisplayID": 0,
                 "description": "Neltharion causes any remaining |cffffffffTwisted Earth|r to erupt with a |cffffffffVolcanic Blast|r and |cffffffffCollapsed Earth|r to fall.",
@@ -6092,10 +6105,23 @@
             {
                 "abilityIcon": 514018,
                 "creatureDisplayID": 0,
-                "description": "Neltharion infuses players with volcanic energy that explodes after 7 sec, inflicting 875,825 Volcanic damage to players in line of sight, and an additional 109,428 Volcanic damage every 1.5 sec for 15 sec.\\n\\nThis effect stacks.\\n\\n|TInterface\\EncounterJournal\\UI-EJ-WarningTextIcon:0:0:0:0|t|CFF741A02On Mythic difficulty, Volcanic Heart affects all players within line of sight.|r",
+                "description": "Neltharion infuses players with volcanic energy that explodes after 7 sec, inflicting 875,825 Volcanic damage to players within 25 yards, and an additional 109,428 Volcanic damage every 1.5 sec for 15 sec.\\n\\nThis effect stacks.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
-                "link": "|cff66bbff|Hjournal:2:26782:16|h[Volcanic Heart]|h|r",
+                "link": "|cff66bbff|Hjournal:2:26780:16|h[Volcanic Heart]|h|r",
+                "siblingSectionID": 26695,
+                "spellID": 410953,
+                "startsOpen": false,
+                "title": "Volcanic Heart",
+                "uiModelSceneID": 0
+            },
+            {
+                "abilityIcon": 514018,
+                "creatureDisplayID": 0,
+                "description": "Neltharion infuses players with volcanic energy that explodes after 7 sec, inflicting 875,825 Volcanic damage to players within 25 yards, and an additional 109,428 Volcanic damage every 1.5 sec for 15 sec.\\n\\nThis effect stacks.",
+                "filteredByDifficulty": false,
+                "headerType": 2,
+                "link": "|cff66bbff|Hjournal:2:26781:16|h[Volcanic Heart]|h|r",
                 "siblingSectionID": 26430,
                 "spellID": 410953,
                 "startsOpen": false,
@@ -6132,7 +6158,7 @@
             {
                 "abilityIcon": 1044087,
                 "creatureDisplayID": 0,
-                "description": "Rock fragments inflict 136,848 Nature damage to players standing at the impact location.",
+                "description": "Rock fragments inflict 383,173 Nature damage to players standing at the impact location.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26785:16|h[Shattered Rock]|h|r",
@@ -6144,7 +6170,7 @@
             {
                 "abilityIcon": 136025,
                 "creatureDisplayID": 0,
-                "description": "Rubble falls from the ceiling, inflicting 218,956 Nature damage to players within 3 yards and stunning them for 1 sec.",
+                "description": "Rubble falls from the ceiling, inflicting 355,804 Nature damage to players within 3 yards and stunning them for 3 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26786:16|h[Collapsed Earth]|h|r",
@@ -6157,7 +6183,7 @@
             {
                 "abilityIcon": 135830,
                 "creatureDisplayID": 0,
-                "description": "The erupting segment of |cffffffffTwisted Earth|r inflicts 328,434 Volcanic damage to players in 7 yards, and knocks them away.",
+                "description": "The erupting segment of |cffffffffTwisted Earth|r inflicts 410,543 Volcanic damage to players in 7 yards, and knocks them away.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26787:16|h[Volcanic Blast]|h|r",
@@ -6170,7 +6196,7 @@
             {
                 "abilityIcon": 136025,
                 "creatureDisplayID": 0,
-                "description": "Rubble falls from the ceiling, inflicting 218,956 Nature damage to players within 3 yards and stunning them for 1 sec.",
+                "description": "Rubble falls from the ceiling, inflicting 355,804 Nature damage to players within 3 yards and stunning them for 3 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26788:16|h[Collapsed Earth]|h|r",
@@ -6219,7 +6245,7 @@
             {
                 "abilityIcon": 1044087,
                 "creatureDisplayID": 0,
-                "description": "Rock fragments inflict 136,848 Nature damage to players standing at the impact location.",
+                "description": "Rock fragments inflict 383,173 Nature damage to players standing at the impact location.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26950:16|h[Shattered Rock]|h|r",
@@ -6244,7 +6270,7 @@
             {
                 "abilityIcon": 1044087,
                 "creatureDisplayID": 0,
-                "description": "Rock fragments inflict 136,848 Nature damage to players standing at the impact location.",
+                "description": "Rock fragments inflict 383,173 Nature damage to players standing at the impact location.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26952:16|h[Shattered Rock]|h|r",
@@ -6282,7 +6308,7 @@
             {
                 "abilityIcon": 1044087,
                 "creatureDisplayID": 0,
-                "description": "Rock fragments inflict 136,848 Nature damage to players standing at the impact location.",
+                "description": "Rock fragments inflict 383,173 Nature damage to players standing at the impact location.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26956:16|h[Shattered Rock]|h|r",
@@ -6307,7 +6333,7 @@
             {
                 "abilityIcon": 1044087,
                 "creatureDisplayID": 0,
-                "description": "Rock fragments inflict 136,848 Nature damage to players standing at the impact location.",
+                "description": "Rock fragments inflict 383,173 Nature damage to players standing at the impact location.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26958:16|h[Shattered Rock]|h|r",
@@ -6319,7 +6345,7 @@
             {
                 "abilityIcon": 1044087,
                 "creatureDisplayID": 0,
-                "description": "Rock fragments inflict 136,848 Nature damage to players standing at the impact location.",
+                "description": "Rock fragments inflict 383,173 Nature damage to players standing at the impact location.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26959:16|h[Shattered Rock]|h|r",
@@ -6331,7 +6357,7 @@
             {
                 "abilityIcon": 575536,
                 "creatureDisplayID": 0,
-                "description": "Rubble periodically falls from the damaged ceiling, inflicting 273,695 Volcanic damage to players within 3 yards.",
+                "description": "Rubble periodically falls from the damaged ceiling, inflicting 437,912 Volcanic damage to players within 3 yards.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:27117:16|h[Crumbling Facade]|h|r",
@@ -6500,7 +6526,7 @@
             {
                 "abilityIcon": 135819,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places several Scorching Bombs nearby players. Each inflicts 229,904 Fire damage to players within 10 yards every 1 sec. After 12 sec, the bombs explode with a |cffffffffScorching Detonation|r.",
+                "description": "Sarkareth places several Scorching Bombs nearby players. Each inflicts 355,804 Fire damage to players within 10 yards every 1 sec. After 12 sec, the bombs explode with a |cffffffffScorching Detonation|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26169,
                 "headerType": 2,
@@ -6569,7 +6595,7 @@
             {
                 "abilityIcon": 132886,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 131,374 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
+                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 218,956 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26241,
                 "headerType": 2,
@@ -6596,7 +6622,7 @@
             {
                 "abilityIcon": 132886,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 131,374 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
+                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 218,956 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26243,
                 "headerType": 2,
@@ -6610,7 +6636,7 @@
             {
                 "abilityIcon": 608955,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth flies up through a void portal before crashing through the floor and inflicting 1 million Shadow damage to players within 30 yards and knocking back players struck.",
+                "description": "Sarkareth flies up through a void portal before crashing through the floor and inflicting 1.6 million Shadow damage to players within 30 yards and knocking back players struck.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26162,
                 "headerType": 2,
@@ -6742,7 +6768,7 @@
             {
                 "abilityIcon": 1379242,
                 "creatureDisplayID": 0,
-                "description": "The player's senses are dazzled, stunning them and inflicting 136,888 Arcane damage every 1 sec for 20 sec.",
+                "description": "The player's senses are dazzled, stunning them and inflicting 273,695 Arcane damage every 1 sec for 20 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26179:16|h[Dazzled]|h|r",
@@ -6766,7 +6792,7 @@
             {
                 "abilityIcon": 4622459,
                 "creatureDisplayID": 0,
-                "description": "Motes of flame fall from above, inflicting 158,743 Fire damage and knocking back players within 4 yards of the impact.",
+                "description": "Motes of flame fall from above, inflicting 328,434 Fire damage and knocking back players within 4 yards of the impact.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26186:16|h[Drifting Embers]|h|r",
@@ -6779,7 +6805,7 @@
             {
                 "abilityIcon": 425955,
                 "creatureDisplayID": 0,
-                "description": "The bomb erupts with void energy, inflicting 153,269 Shadow damage to all players every 1 sec for 4 sec.",
+                "description": "The bomb erupts with void energy, inflicting 246,326 Shadow damage to all players every 1 sec for 4 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26241:16|h[Void Surge]|h|r",
@@ -6805,7 +6831,7 @@
             {
                 "abilityIcon": 425955,
                 "creatureDisplayID": 0,
-                "description": "The bomb erupts with void energy, inflicting 153,269 Shadow damage to all players every 1 sec for 4 sec.",
+                "description": "The bomb erupts with void energy, inflicting 246,326 Shadow damage to all players every 1 sec for 4 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26243:16|h[Void Surge]|h|r",
@@ -6965,7 +6991,7 @@
             {
                 "abilityIcon": 4914668,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth takes in a deep breath and flies to a location, inflicting 410,543 Shadow damage in a line and knocking players away. This leaves behind void residue which inflicts 38,317 Shadow damage every 0.5 sec to players within.",
+                "description": "Sarkareth takes in a deep breath and flies to a location, inflicting 492,651 Shadow damage in a line and knocking players away. This leaves behind void residue which inflicts 38,317 Shadow damage every 0.5 sec to players within.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26672,
                 "headerType": 2,
@@ -7212,6 +7238,7 @@
                 "creatureDisplayID": 0,
                 "description": "Upon reaching 100 energy, Kazzara unleashes an annihilating beam from her jaws, inflicting 132,831 Shadowflame damage every 0.3 sec for 3 sec to any players caught inside. The superheated breath inflicts an additional 5,904 Shadowflame damage every 0.3 sec to all players.\\n\\nKazzara disgorges increasing amounts of |cffffffffRevenant's Blood|r as her armor is shattered off.",
                 "filteredByDifficulty": false,
+                "firstChildSectionID": 27184,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26178:14|h[Hellbeam]|h|r",
                 "siblingSectionID": 26204,
@@ -7314,7 +7341,7 @@
             {
                 "abilityIcon": 514018,
                 "creatureDisplayID": 0,
-                "description": "Kazzara's exposed core pulses with her molten heartbeat inflicting 17,711 Shadowflame damage to all players every 4 sec, hastening as she loses more armor.",
+                "description": "Kazzara's exposed core pulses with her molten heartbeat inflicting 14,759 Shadowflame damage to all players every 4 sec, hastening as she loses more armor.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26549:14|h[Infernal Heart]|h|r",
@@ -7370,6 +7397,18 @@
                 "spellID": 407517,
                 "startsOpen": false,
                 "title": "Molten Scar",
+                "uiModelSceneID": 0
+            },
+            {
+                "abilityIcon": 538040,
+                "creatureDisplayID": 0,
+                "description": "Kazzara's gruesome wounds spew out masses of her lifeblood, each inflicting 118,072 Shadowflame damage within 3 yards of impact.",
+                "filteredByDifficulty": false,
+                "headerType": 2,
+                "link": "|cff66bbff|Hjournal:2:27184:14|h[Revenant's Blood]|h|r",
+                "spellID": 404789,
+                "startsOpen": false,
+                "title": "Revenant's Blood",
                 "uiModelSceneID": 0
             }
         ],
@@ -9361,7 +9400,7 @@
             {
                 "abilityIcon": 237583,
                 "creatureDisplayID": 0,
-                "description": "Lava seeps out from each |cffffffffEchoing Fissure|r, inflicting 132,831 Volcanic damage every 1.5 sec. to players within the area.",
+                "description": "Lava seeps out from each |cffffffffEchoing Fissure|r, inflicting 236,144 Volcanic damage every 1 sec. to players within the area.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26657:14|h[Seeping Lava]|h|r",
@@ -9442,7 +9481,7 @@
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26780:14|h[Volcanic Heart]|h|r",
-                "siblingSectionID": 26778,
+                "siblingSectionID": 26695,
                 "spellID": 410953,
                 "startsOpen": false,
                 "title": "Volcanic Heart",
@@ -9455,7 +9494,7 @@
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26781:14|h[Volcanic Heart]|h|r",
-                "siblingSectionID": 26782,
+                "siblingSectionID": 26430,
                 "spellID": 410953,
                 "startsOpen": false,
                 "title": "Volcanic Heart",
@@ -9857,7 +9896,7 @@
             {
                 "abilityIcon": 132886,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 70,843 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
+                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 70,871 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26241,
                 "headerType": 2,
@@ -9897,7 +9936,7 @@
             {
                 "abilityIcon": 132886,
                 "creatureDisplayID": 0,
-                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 70,843 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
+                "description": "Sarkareth places Void Bombs nearby players. Each inflicts 70,871 Shadow damage to players within 12 yards every 1 sec. After 20 sec, the bombs explode with a |cffffffffVoid Surge|r.",
                 "filteredByDifficulty": false,
                 "firstChildSectionID": 26243,
                 "headerType": 2,
@@ -10039,7 +10078,7 @@
             {
                 "abilityIcon": 607852,
                 "creatureDisplayID": 0,
-                "description": "When |cffffffffOppressing Howl|r is removed from a player, echoing darkness erupts forth and inflicts 17,711 Shadow damage to all players.",
+                "description": "When |cffffffffOppressing Howl|r is removed from a player, echoing darkness erupts forth and inflicts 23,614 Shadow damage to all players.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26203:14|h[Echoing Howl]|h|r",
@@ -10052,7 +10091,7 @@
             {
                 "abilityIcon": 425955,
                 "creatureDisplayID": 0,
-                "description": "The bomb erupts with void energy, inflicting 82,650 Shadow damage to all players every 1 sec for 4 sec.",
+                "description": "The bomb erupts with void energy, inflicting 82,652 Shadow damage to all players every 1 sec for 4 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26241:14|h[Void Surge]|h|r",
@@ -10078,7 +10117,7 @@
             {
                 "abilityIcon": 425955,
                 "creatureDisplayID": 0,
-                "description": "The bomb erupts with void energy, inflicting 82,650 Shadow damage to all players every 1 sec for 4 sec.",
+                "description": "The bomb erupts with void energy, inflicting 82,652 Shadow damage to all players every 1 sec for 4 sec.",
                 "filteredByDifficulty": false,
                 "headerType": 2,
                 "link": "|cff66bbff|Hjournal:2:26243:14|h[Void Surge]|h|r",
